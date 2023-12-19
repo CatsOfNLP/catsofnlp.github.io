@@ -2,3 +2,9 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: "Cats of NLP"
 locale: "en-us"
 logo: https://avatars.githubusercontent.com/u/154296653?s=400&u=ebc18ee4e6c04965125b74851ea2842d96a283d3&v=4
+
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
