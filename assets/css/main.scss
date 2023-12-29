@@ -1,4 +1,14 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
 .entry-image {
   max-height: 30em;
   object-fit: cover;
 }
+
+.site-logo-img {
+  border-radius: 20% !important;
+}
+
